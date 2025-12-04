@@ -8,7 +8,7 @@ A simple HTML + CSS project that displays a card with an animated border. On hov
 
 ## 🛠️ Built With  
 * HTML5  
-* CSS3 (including `@property`, `@keyframes`, conic-gradient, hover effects)  
+* CSS (including `@property`, `@keyframes`, conic-gradient, hover effects)  
  
 ##  Features  
 * Hover over the card to see the border animation and glow effect.  
